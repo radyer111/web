@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","down","renwu"],collisionMatrix:[[true],[false,false,true],[false,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/zhuye.fire",orientation:"",jsList:[],bundleVers:{internal:"d17e2",main:"020c3"}};
